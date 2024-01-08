@@ -1,0 +1,21 @@
+@import url("./cdn.css");
+@import url("./awesome.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: 'Open Sans', 'Raleway', sans-serif;
+  }
+  
+  .container {
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 15px;
+  }
+  
